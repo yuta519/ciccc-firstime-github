@@ -6,6 +6,7 @@
   - [LinkedIn](https://www.linkedin.com/in/yuta519/)
   - [Web Site](https://yuta519.github.io/)
 -
+![Profile](https://raw.githubusercontent.com/yuta519/yuta519.github.io/main/public/profile.jpg)
 
 ## My blog articles
 - English
